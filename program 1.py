@@ -1,0 +1,18 @@
+import time 
+
+name = input("what is your name? ")
+print("hello ", name,"here is how to cook instant noodles")
+time.sleep(3)
+print("boil some water")
+time.sleep(2)
+print("add the noodles")
+time.sleep(2)
+print("cook for 5 minutes")
+time.sleep(3)
+print("remove the water")
+time.sleep(2)
+print("add the seasonings")
+time.sleep(2)
+print("stir well")
+time.sleep(2)
+print("done!") 
